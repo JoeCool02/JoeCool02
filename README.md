@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JoeCool02
-- 👀 I’m interested in ... web3 & smart contracts
-- 🌱 I’m currently learning ... FreeCodeCamp smartcontractkit/full-blockchain-solidity-course-py
+- 👀 I’m interested in ... web3, smart contracts, and data science
+- 🌱 I’m currently learning ... Teach Yourself Data Analytics in 30 Days
+- 💡 I just finished ... FreeCodeCamp smartcontractkit/full-blockchain-solidity-course-py
 - 💞️ I’m looking to collaborate on ... web3, NFTs
 - 📫 How to reach me ... Twitter @JoeCool2002
 
