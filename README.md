@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web3, smart contracts, and data science
 - 🌱 I’m currently learning ... Teach Yourself Data Analytics in 30 Days
 - 💡 I just finished ... FreeCodeCamp smartcontractkit/full-blockchain-solidity-course-py
-- 💞️ I’m looking to collaborate on ... web3, NFTs
+- 💞️ I’m looking to collaborate on ... web3, NFTs, data science projects
 - 📫 How to reach me ... Twitter @JoeCool2002
 
 <!---
